@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "natsu"
-version = "1.0.0"
+version = "1.0.1"
 description = "Use sum() with objects of any class"
 authors = ["celsius narhwal <hello@celsiusnarhwal.dev>"]
 readme = "README.md"
