@@ -5,7 +5,7 @@
 [![PyPI - License](https://img.shields.io/pypi/l/natsu?color=03cb98&style=for-the-badge)](https://github.com/celsiusnarhwal/natsu/blob/main/LICENSE.md)
 [![Code style: Black](https://aegis.celsiusnarhwal.dev/badge/black?style=for-the-badge)](https://github.com/psf/black)
 
-natsu allows you to `sum()` Python objects of any class that implements `__add__()`.
+natsu allows you to `sum()` with Python objects of any class that implements `__add__()`.
 
 ## Installation
 
